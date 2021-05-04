@@ -1,0 +1,2 @@
+---
+default: -f pretty #-f message -o log/report.json -f pretty
